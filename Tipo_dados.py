@@ -1,0 +1,5 @@
+print(2 + 18 + 140)
+print(10.5 + 199.2 + 0.34)
+print(True)
+print(False)
+print('Tipo String')
