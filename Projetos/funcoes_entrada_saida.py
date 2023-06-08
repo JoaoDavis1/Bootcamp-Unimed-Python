@@ -7,5 +7,3 @@ print(nome, sobrenome, end="... \n")
 #sep(Separador entre variaveis)
 print(nome, sobrenome, sep="-")
 print(nome, sobrenome, sep="_", end="..")
-
-print(float('a'))
